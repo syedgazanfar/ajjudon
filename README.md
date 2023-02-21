@@ -1,0 +1,2 @@
+# ajjudon
+my first repo
